@@ -1,3 +1,8 @@
+- Web de Roxs:
+https://bootcamp.295devops.com/
+
+- Modulo 1: Linux para DevOps
+
 - aws skill builder:
 https://explore.skillbuilder.aws/pages/16/tablero-de-alumno
 "Aca tengo que aprender con el juego 'aws cloud quest' (pendiente con este juego)"
@@ -26,3 +31,5 @@ jorgeluisgarciasalazar@gmail.com
 
 Contrasenia:
 JLjorge$174$luisMG
+
+
