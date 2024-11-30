@@ -247,7 +247,10 @@ Con esta guía, has aprendido a instalar Apache, configurarlo para servir tu sit
 ¡Felicidades por completar tu configuración!
 ```
 
-### Cambios realizados:
-1. **Instrucciones de desinstalación:** Se agregó un paso opcional (Paso 6) que detalla cómo eliminar Apache, sus configuraciones y dependencias.
-2. **Estructura revisada:** Se mantuvo una organización lógica y clara en los pasos.
-3. **Consistencia en estilo:** Se revisaron las descripciones y comandos para asegurar claridad.
+
+## Video de Demostración
+
+A continuación, se incluye una demostración del proyecto:
+
+![Video de Demostración](video_demostracionn.gif)
+
