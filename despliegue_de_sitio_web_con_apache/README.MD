@@ -245,12 +245,15 @@ sudo apt autoremove
 Con esta guía, has aprendido a instalar Apache, configurarlo para servir tu sitio web personal y, en caso necesario, desinstalarlo. Este es un punto de partida básico que puedes extender con configuraciones avanzadas, como seguridad HTTPS o reglas personalizadas.
 
 ¡Felicidades por completar tu configuración!
-```
-
 
 ## Video de Demostración
 
 A continuación, se incluye una demostración del proyecto:
 
 ![Video de Demostración](video_demostracionn.gif)
+
+
+```
+
+
 
